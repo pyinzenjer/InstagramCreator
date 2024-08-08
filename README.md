@@ -1,7 +1,7 @@
 # InstagramCreator
 
 # D E M O ↓
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.t.me/pyinzenjer)
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.youtu.be/82OrKiJ0f7A?si=VX6nOL8mYUueiuKy)
 
 
 # How Work ?
