@@ -1,7 +1,7 @@
 # InstagramCreator
 
 # D E M O ↓
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.youtu.be/82OrKiJ0f7A?si=VX6nOL8mYUueiuKy)
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://www.youtube.com/watch?v=82OrKiJ0f7A)
 
 
 # How Work ?
